@@ -1,6 +1,6 @@
 # site settings
-title: Blacksuan19
-email: hi@blacksuan19.dev
+title: Cedric Rodriguez
+email: cedric.j.rodriguez@protonmail.com
 landing-title: Hello, Welcome to my website.
 description: Where I post projects, linux-related blogs, and occasionally solutions.
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -28,11 +28,11 @@ preferred_contact: telegram
 # add social media links here and they will show up in the footer
 # icon: url
 social_urls:
-    linkedin: https://www.linkedin.com/in/blacksuan19/
-    github: https://github.com/blacksuan19
-    kaggle: https://www.kaggle.com/abubakaryagob/
-    telegram: https://t.me/blacksuan19
-    android: https://forum.xda-developers.com/member.php?u=5980272
+    linkedin: https://www.linkedin.com/in/cedricrodriguez/
+    github: https://github.com/cedricjakobrodriguez/
+    # kaggle: https://www.kaggle.com/abubakaryagob/
+    # telegram: https://t.me/blacksuan19
+    # android: https://forum.xda-developers.com/member.php?u=5980272
     # instagram:
     # twitter:
     # facebook:
