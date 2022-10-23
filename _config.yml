@@ -1,17 +1,17 @@
 # site settings
 title: Cedric Rodriguez
 email: cedric.j.rodriguez@protonmail.com
-landing-title: Hi, I'm Cedric, AI researcher for healthcare.
+landing-title: Hi, I'm Cedric, researcher AI in healthcare.
 description: Here, you can find my projects and articles on machine learning and evolutionary intelligence for healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Cedric Rodriguez
 street_address:
-city: Earth
-state: G2V star
+city: Utrecht
+state: Utrecht
 zip_code: 
-country: Milky Way
-about-text: My name is Abubakar Yagoub, Computer Science Student and Machine learning developer with a focus on deep learning and neural networks, I have experience with both TensorFlow and PyTorch deep learning framework, I am also interested in flutter and Linux systems, looking for a job with a focus on creating novel neural networks that solve real-world problems. when I am not in front of my laptop coding something I am usually at the gym or enjoying some music.
+country: The Netherlands
+about-text: Together with many researchers around me, I work on evolutionary machine learning techniques where, unlike many other techniques, we can find multiple optimal answers for difficult clinical problems with relatively little data. We use the available computing power for the (time-consuming) exploration of different solutions for clinical issues that require a balance between multiple clinical goals, such as; treating a disease as well as possible while minimizing side effects. We do this by simultaneously exploring, combining and evaluating thousands of potential solutions. We then present only the most potential solutions that all represent a different trade-off between the established clinical goals. We then leave it to the medical experts to use their knowledge of the patient's background to choose the solution that is the most appropriate trade-off between the goals set. In this way, we hope that these machine learning techniques are an addition to clinical decision-making where computing power is used to search among thousands/millions of different solutions and where the intuition of the medical expert is used to make the best decision within the individual patient's context.
 
 # homepage config
 tiles-count: 3 # number of tiles on home page
@@ -50,9 +50,9 @@ group_name: Significant Projects
 extern_name: External Links
 # URLs, format name:url
 extern_urls:
-  Redash-Python library: https://www.blacksuan19.dev/redash-python/
-  Stanford ML Notes: https://kutt.it/u7MfXU
-  Deep Learning Notes: https://kutt.it/kJ5UOf
+  Centrum Wiskunde & Informatica: https://www.cwi.nl/people/cedric-rodriguez/
+  LUMC AI Research Meetup: https://lumcaimeetup.github.io/
+
 # build settings
 markdown: kramdown
 kramdown:
