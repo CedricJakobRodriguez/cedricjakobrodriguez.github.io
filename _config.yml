@@ -1,11 +1,11 @@
 # site settings
 title: Cedric Rodriguez
 email: cedric.j.rodriguez@protonmail.com
-landing-title: Hello, Welcome to my website.
-description: Where I post projects, linux-related blogs, and occasionally solutions.
+landing-title: Hi, I'm Cedric, AI researcher for healthcare.
+description: Here, you can find my projects and articles on machine learning and evolutionary intelligence for healthcare.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
-author: Blacksuan19
+author: Cedric Rodriguez
 street_address:
 city: Earth
 state: G2V star
