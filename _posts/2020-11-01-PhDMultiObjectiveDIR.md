@@ -1,5 +1,5 @@
 ---
-title: PhD Deformable Image Registration
+title: Deformable Image Registration
 description: Multi-objective deformable image registration in oncology
 layout: post
 project: true
