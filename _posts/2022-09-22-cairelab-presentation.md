@@ -8,6 +8,7 @@ permalink: "/blog/:title/"
 tags:
   - AI
   - CAIRELab
+  - LUMC
 ---
 
 TBH

@@ -1,14 +1,15 @@
 ---
-title: Knowledge Graphs in Python
-description: Data Science Project
+title: PhD Deformable Image Registration
+description: Multi-objective deformable image registration in oncology
 layout: post
 project: true
 permalink: "/projects/:title/"
 image: /assets/images/ds.jpg
 source: https://www.kaggle.com/abubakaryagob/Knowledge_Graphs
 tags:
-  - data-science
-  - machine-learning
+  - evolutionary-intelligence
+  - multi-objective
+  - oncology
   - project
 ---
 
