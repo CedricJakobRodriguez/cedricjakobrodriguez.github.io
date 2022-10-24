@@ -34,7 +34,7 @@ social_urls:
     # telegram: https://t.me/blacksuan19
     # android: https://forum.xda-developers.com/member.php?u=5980272
     # instagram:
-    # twitter:
+    twitter: https://twitter.com/cedricrodrigz/
     # facebook:
     # pinterest:
 
@@ -74,3 +74,6 @@ permalink: pretty
 jekyll_admin:
   hidden_links:
     - datafiles
+
+# Analytics
+google_analytics: "G-TXSVZ9CVKG"
