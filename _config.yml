@@ -50,7 +50,7 @@ group_name: Significant Projects
 extern_name: External Links
 # URLs, format name:url
 extern_urls:
-  C. Wiskunde & Informatica: https://www.cwi.nl/people/cedric-rodriguez/
+  C. Wiskunde & Informatica: https://www.cwi.nl/research/groups/life-sciences-and-health/
   LUMC AI Research Meetup: https://lumcaimeetup.github.io/
 
 # build settings

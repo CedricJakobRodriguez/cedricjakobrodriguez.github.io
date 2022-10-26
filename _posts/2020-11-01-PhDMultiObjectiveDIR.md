@@ -11,6 +11,7 @@ tags:
   - multi-objective
   - oncology
   - project
+  - research
 ---
 
 knowledge Graphs are a way to visualize relationships between entities, they can
