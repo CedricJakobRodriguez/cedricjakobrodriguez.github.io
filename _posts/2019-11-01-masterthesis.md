@@ -1,5 +1,5 @@
 ---
-title: Master Thesis - Biorobotics/Medical Product Development
+title: Master Thesis
 description: The design and simulation of an active force control architecture for an electric drive
 layout: post
 project: true
