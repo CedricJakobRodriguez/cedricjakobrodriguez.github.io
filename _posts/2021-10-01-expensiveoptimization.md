@@ -13,4 +13,4 @@ tags:
   - research
 ---
 
-More information is comming soon!
+More information is coming soon!
