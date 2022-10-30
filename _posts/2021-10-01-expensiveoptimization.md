@@ -1,11 +1,11 @@
 ---
 title: Expensive optimization
-description: Developing new multi-objective expensive optimization algorithm
+description: Co-developing new multi-objective expensive optimization algorithm
 layout: post
 project: true
 permalink: "/projects/:title/"
 image: /assets/images/optimizationlandscape.png
-source: https://www.kaggle.com/abubakaryagob/credit-card-fraud-detection-with-pytorch
+source: 
 tags:
   - multi-objective
   - evolutionary intelligence
